@@ -140,16 +140,6 @@ checkin-agent/
     └── checkins.csv     # Local data store (created on first save)
 ```
 
-Add this to `.gitignore` if you use Git:
-
-```
-.env
-service_account.json
-data/
-venv/
-__pycache__/
-```
-
 ---
 
 ## 6. Setup
