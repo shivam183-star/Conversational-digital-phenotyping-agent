@@ -11,6 +11,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.pyo
+EEG Classifier\eeg_epochs_128hz.npz
 
 .venv/
 venv/
@@ -23,3 +24,6 @@ ENV/
 *.swo
 .DS_Store
 
+
+*.npz
+EEG Classifier/*.npz
